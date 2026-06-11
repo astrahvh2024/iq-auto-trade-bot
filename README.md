@@ -1,5 +1,7 @@
 --
 
+![Interface do bot](imagem.jpg)
+
 # 📊 IQTradeBot V4.0 - Hybrid System
 
 Robô de trading automatizado para **IQ Option**, desenvolvido em Python com interface gráfica (CustomTkinter), combinando estratégias de:
