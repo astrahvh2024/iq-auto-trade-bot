@@ -181,7 +181,3 @@ Para dúvidas, melhorias ou versão profissional do robô:
 
 ---
 
-Se quiser, posso na próxima etapa:
-
-* transformar isso em **README estilo GitHub profissional com badges e imagens**
-* ou melhorar seu robô com **filtro de tendência + anti-loss system (bem mais forte)**
